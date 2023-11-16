@@ -6,5 +6,7 @@ This repository contains my 3D models made in Blender.
 
 I used to have a dozen or so, including a couple short animation loops, but the files were corrupted and I couldn't recover them after getting a new computer, so I'm starting this repo from scratch now! ^^;
 
+Furthermore, Blender is a vast and intricate piece of software that I don't fully understand, so anything I *do* create will, for now at least, be pretty basic.
+
 ## References
 1. [↑](#footnote-1-backlink-1) <a id="footnote-1">[Blender (software) on Wikipedia](https://en.wikipedia.org/wiki/Blender_(software)), 16 Nov 2023.</a>
